@@ -8,8 +8,11 @@ I enjoy building efficient and scalable web applications while continuously expa
 ## 🔥 About Me  
 - 💡 Currently diving into **React & Backend Development**  
 - 🚀 Passionate about writing clean, maintainable, and high-performance code  
-- 📫 Reach me at: **your.email@example.com**  
+- 📫 Reach me at: **yujin5479@gmail.com**  
 
+
+<div align="center">
+  
 ## 🛠 Tech Stack  
 
 ### 🌐 Frontend  
@@ -29,6 +32,7 @@ I enjoy building efficient and scalable web applications while continuously expa
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
+</div>
 ---  
 
 ## 📊 GitHub Stats  

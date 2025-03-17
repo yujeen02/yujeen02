@@ -12,7 +12,7 @@ I enjoy building efficient and scalable web applications while continuously expa
 
 
 
- 
+<div align="center">
 ## 🛠 Tech Stack  
 
 ### 🌐 Frontend  
@@ -38,7 +38,7 @@ I enjoy building efficient and scalable web applications while continuously expa
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-
+</div>
 ---  
 
 ## 📊 GitHub Stats  

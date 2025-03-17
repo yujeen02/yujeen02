@@ -1,5 +1,6 @@
 <!-- 타이틀 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ChoiVerse&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F,004d00&height=300&section=header&text=ChoiVerse&fontSize=90&fontColor=ffffff" />
+
 
 # Welcome! 👋  
 I'm **Yujeen Choi**, a dedicated **Backend Developer** 💻  

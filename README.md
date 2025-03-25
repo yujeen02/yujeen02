@@ -7,7 +7,7 @@ I'm **Yujeen Choi**, a dedicated **Backend Developer** 💻
 I enjoy building efficient and scalable web applications while continuously expanding my skill set.  
 
 ## 🔥 About Me  
-- 💡 Currently diving into **React & Backend Development**  
+- 💡 Currently diving into **Backend Development**  
 - 🚀 Passionate about writing clean, maintainable, and high-performance code  
 - 📫 Reach me at: **yujin5479@gmail.com**  
 

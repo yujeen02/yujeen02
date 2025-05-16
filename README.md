@@ -9,7 +9,7 @@ I enjoy building efficient and scalable web applications while continuously expa
 ## 🔥 About Me  
 - 💡 Currently diving into **Backend Development**  
 - 🚀 Passionate about writing clean, maintainable, and high-performance code  
-- 📫 Reach me at: **yujin5479@gmail.com**  
+- 📫 Reach me at: **yujeen02@naver.com**  
 
 
 

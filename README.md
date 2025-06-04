@@ -43,12 +43,3 @@ I enjoy building efficient and scalable web applications while continuously expa
 </p>
 
 </div>
-
-
-## 📊 GitHub Stats  
-
----  
-
-## 🚀 Featured Projects 
-
-"Excited to collaborate and build something great! ✨"

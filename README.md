@@ -13,7 +13,6 @@ I build scalable web applications with **Next.js, React, NestJS, and FastAPI**, 
 
 - 💻 Full Stack Developer with AI Backend experience
 - 🚀 Passionate about building scalable web applications and AI-powered services
-- 🌱 Currently learning **C#** and **ASP.NET Core**
 - 📫 Reach me at **yujeen02@naver.com**
 
 ---

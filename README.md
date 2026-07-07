@@ -5,23 +5,43 @@
 
 I'm **Yujeen Choi**, a **Full Stack Developer** 💻
 
-I build scalable web applications with **Next.js, React, NestJS, and FastAPI**, and develop AI-powered services using **Python, RAG, and LLMs**.
+I build scalable web applications with **Next.js, React, NestJS, and FastAPI**, while developing AI-powered services using **Python, RAG, and LLMs**.
 
 ---
 
 ## 🔥 About Me
 
-- 💻 Full Stack Developer
-- 🤖 Building AI-powered applications with **Python, FastAPI, RAG, and LLMs**
-- 🚀 Passionate about clean architecture, scalable systems, and user-focused services
+- 💻 Full Stack Developer with AI Backend experience
+- 🚀 Passionate about building scalable web applications and AI-powered services
 - 🌱 Currently learning **C#** and **ASP.NET Core**
 - 📫 Reach me at **yujeen02@naver.com**
+
+---
+
+## 💼 Experience
+
+### Full Stack Engineer
+**Jul 2026 – Present**
+
+- Developing full-stack web applications using **Next.js, React, NestJS, and FastAPI**
+- Designing REST APIs and integrating AI services
+- Building scalable backend architectures and modern web services
+
+### AI Backend Engineer
+**Aug 2025 – Jun 2026 (10 months)**
+
+- Developed AI backend services using **Python** and **FastAPI**
+- Built **RAG-based** interior recommendation systems with LLMs
+- Trained and optimized **YOLO** models for floorplan analysis
+- Designed AI pipelines and REST APIs
+
+---
 
 <div align="center">
 
 # 🛠 Tech Stack
 
-## 🌐 Frontend
+### 🌐 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -34,7 +54,7 @@ I build scalable web applications with **Next.js, React, NestJS, and FastAPI**, 
 
 ---
 
-## ⚙️ Backend
+### ⚙️ Backend
 
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -45,7 +65,7 @@ I build scalable web applications with **Next.js, React, NestJS, and FastAPI**, 
 
 ---
 
-## 🤖 AI / LLM
+### 🤖 AI / LLM
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -58,7 +78,7 @@ I build scalable web applications with **Next.js, React, NestJS, and FastAPI**, 
 
 ---
 
-## 🗄 Database
+### 🗄 Database
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -67,7 +87,7 @@ I build scalable web applications with **Next.js, React, NestJS, and FastAPI**, 
 
 ---
 
-## ☁️ DevOps
+### ☁️ DevOps
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -77,7 +97,7 @@ I build scalable web applications with **Next.js, React, NestJS, and FastAPI**, 
 
 ---
 
-## 🛠 Tools
+### 🛠 Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -85,5 +105,37 @@ I build scalable web applications with **Next.js, React, NestJS, and FastAPI**, 
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🏠 AI Floorplan Analysis | AI system for extracting walls, rooms, openings, and furniture from 2D floorplans | Python, FastAPI, YOLO |
+| 🛋️ Interior Recommendation RAG | AI-powered interior recommendation system using RAG and LLMs | FastAPI, OpenAI, Qdrant |
+| 🐶 PuppyCupid | Pet walking matching platform | Next.js, NestJS, MySQL |
+| 📸 Cyworld Clone | Social networking platform inspired by Cyworld | Next.js, NestJS, MySQL |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<div align="center">
+
+### 📫 Connect with Me
+
+<a href="mailto:yujeen02@naver.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>

@@ -110,28 +110,6 @@ I build scalable web applications with **Next.js, React, NestJS, and FastAPI**, 
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🏠 AI Floorplan Analysis | AI system for extracting walls, rooms, openings, and furniture from 2D floorplans | Python, FastAPI, YOLO |
-| 🛋️ Interior Recommendation RAG | AI-powered interior recommendation system using RAG and LLMs | FastAPI, OpenAI, Qdrant |
-| 🐶 PuppyCupid | Pet walking matching platform | Next.js, NestJS, MySQL |
-| 📸 Cyworld Clone | Social networking platform inspired by Cyworld | Next.js, NestJS, MySQL |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<div align="center">
-
 ### 📫 Connect with Me
 
 <a href="mailto:yujeen02@naver.com">

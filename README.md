@@ -107,12 +107,4 @@ I build scalable web applications with **Next.js, React, NestJS, and FastAPI**, 
 
 </div>
 
----
-
-### 📫 Connect with Me
-
-<a href="mailto:yujeen02@naver.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </div>
